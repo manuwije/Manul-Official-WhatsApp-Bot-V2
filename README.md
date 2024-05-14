@@ -37,7 +37,7 @@ ____________________
 ## Your Bot Cannot run without this.
 
 ```
-mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority
+Create MongoDb Url
 ```
 ____________________
 
