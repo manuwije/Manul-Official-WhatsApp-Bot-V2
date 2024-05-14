@@ -50,16 +50,15 @@ ____________________
 
 #Link = "https://youtu.be/2OJcIWwYTi4"
 
+#### DEPLOY TO HEROKU 
+
+1. If You don't have a account in Heroku. Create a account.
+    <br>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 ## 👇💖 Deploy Heroku 💖👇
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manulofficial7/Manul-Official-Whatsapp-Bot)
 
-____________________
-## 👇💖Deploy Replit 💖👇
-  
-<a href= https://replit.com/~  target="_blank"><img alt= Deploy Replit  src= https://img.shields.io/badge/DEPLOY REPLIT-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black /></a>
-
-____________________
 
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=19BEF7&random=false&width=435&lines=%F0%9F%92%96%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B8%F0%9D%98%80+%F0%9D%97%94%F0%9D%97%B9%F0%9D%97%B9%F0%9F%92%96;%F0%9F%93%8DMade+By-%3A+%C2%A9%CA%8D%C9%BE+%E2%84%82%F0%9D%95%AA%F0%9D%95%93%F0%9D%95%96%F0%9D%95%A3+%CA%8D%C9%91%D5%B2%D5%B4%D3%80+%D6%85%C6%92%C6%92%C3%AD%CF%B2%C3%AD%C9%91%D3%80%E2%99%A0%EF%B8%8F%F0%9F%92%96;%F0%9F%AA%80New++WhatsAppUser+Bot+%F0%9F%A4%96)](https://git.io/typing-svg)
