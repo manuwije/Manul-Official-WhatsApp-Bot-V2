@@ -59,7 +59,7 @@ ____________________
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manulofficial7/Manul-Official-Whatsapp-Bot)
 
-
+____________________
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=19BEF7&random=false&width=435&lines=%F0%9F%92%96%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B8%F0%9D%98%80+%F0%9D%97%94%F0%9D%97%B9%F0%9D%97%B9%F0%9F%92%96;%F0%9F%93%8DMade+By-%3A+%C2%A9%CA%8D%C9%BE+%E2%84%82%F0%9D%95%AA%F0%9D%95%93%F0%9D%95%96%F0%9D%95%A3+%CA%8D%C9%91%D5%B2%D5%B4%D3%80+%D6%85%C6%92%C6%92%C3%AD%CF%B2%C3%AD%C9%91%D3%80%E2%99%A0%EF%B8%8F%F0%9F%92%96;%F0%9F%AA%80New++WhatsAppUser+Bot+%F0%9F%A4%96)](https://git.io/typing-svg)
 
@@ -87,4 +87,11 @@ ____________________
       ``⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ.´´
 
 
-Contact Owner -: +94742274855
+***Tap On Logo To Contat Me***
+
+
+ <p align="left">
+<a href="manulwijethilaka@gmail.com"><img title="Author" src="https://img.shields.io/badge/GMAIL-ME-black?style=for-the-badge&logo=Gmail"></a>
+ <p align="left"> 
+  <a href="https://wa.me/94742274855?text=Hi+Manul+Official+Sir...+I+need+some+help+in+Manul_Official_WhatsApp_Bot"><img title="Author" src="https://img.shields.io/badge/WHATSAPP-ME-red?style=for-the-badge&logo=WhatsApp"></a>
+  
