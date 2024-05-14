@@ -61,6 +61,42 @@ ____________________
 
 ____________________
 
+#### DEPLOY TO MONGENIUS
+
+1. If You don't have a account in Mongenius. Create a account.
+    <br>
+<a href='https://studio.mogenius.com/user/registration' target="_blank"><img alt='Mongenius' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
+
+2. Now Deploy
+    <br>
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
+
+____________________
+
+#### DEPLOY TO CODESPACE
+
+1. If You don't have a account in Codespace. Create a account.
+    <br>
+<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+
+2. Now Deploy
+    <br>
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+
+____________________
+
+#### DEPLOY TO RAILWAY
+
+1. If You don't have a account in Railway. Create a account.
+    <br>
+<a href='https://railway.app/login' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
+
+2. Now Deploy
+    <br>
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
+
+____________________
+
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=19BEF7&random=false&width=435&lines=%F0%9F%92%96%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B8%F0%9D%98%80+%F0%9D%97%94%F0%9D%97%B9%F0%9D%97%B9%F0%9F%92%96;%F0%9F%93%8DMade+By-%3A+%C2%A9%CA%8D%C9%BE+%E2%84%82%F0%9D%95%AA%F0%9D%95%93%F0%9D%95%96%F0%9D%95%A3+%CA%8D%C9%91%D5%B2%D5%B4%D3%80+%D6%85%C6%92%C6%92%C3%AD%CF%B2%C3%AD%C9%91%D3%80%E2%99%A0%EF%B8%8F%F0%9F%92%96;%F0%9F%AA%80New++WhatsAppUser+Bot+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 
