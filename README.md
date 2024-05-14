@@ -33,7 +33,10 @@ ____________________
 
 ## 👇💖 Get Season File 💖👇
   
-<a href= https://replit.com/@manulofficial7/Manul-Official-Whatsapp-Bot  target="_blank"><img alt= SESSION FILE  src= https://img.shields.io/badge/SESSION FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black /></a>
+### GET SESSION VIA PAIR CODE
+<a href='https://replit.com/@manulofficial7/Manul-Official-Whatsapp-Bot' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Click here to get your credit js-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+
+## Your Bot Cannot run without this.
 
 ____________________
 
