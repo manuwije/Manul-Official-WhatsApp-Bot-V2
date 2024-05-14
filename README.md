@@ -31,13 +31,14 @@ ____________________
 
 ____________________
 
-## 👇💖 Get Season File 💖👇
-  
 ### GET SESSION VIA PAIR CODE
 <a href='https://replit.com/@manulofficial7/Manul-Official-Whatsapp-Bot' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Click here to get your credit js-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 ## Your Bot Cannot run without this.
 
+```
+mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority
+```
 ____________________
 
  ## 👇💖 Heroku Tutorial Video 💖👇
